@@ -1,64 +1,217 @@
 {
-    "users": [
-      {
-        "id": 1,
-        "name": "Gertrudis Tatterton",
-        "age": 18,
-        "email": "gtatterton0@ehow.com"
-      },
-      {
-        "id": 2,
-        "name": "Gail Newbatt",
-        "age": 53,
-        "email": "gnewbatt1@un.org"
-      },
-      {
-        "id": 3,
-        "name": "Walliw Wilstead",
-        "age": 49,
-        "email": "wwilstead2@tripadvisor.com"
-      },
-      {
-        "id": 4,
-        "name": "Abran Proback",
-        "age": 29,
-        "email": "aproback3@theglobeandmail.com"
-      },
-      {
-        "id": 5,
-        "name": "Roda Chappelow",
-        "age": 31,
-        "email": "rchappelow4@oaic.gov.au"
-      },
-      {
-        "id": 6,
-        "name": "Karney Wylie",
-        "age": 22,
-        "email": "kwylie5@miitbeian.gov.cn"
-      },
-      {
-        "id": 7,
-        "name": "Cammi Pimbley",
-        "age": 63,
-        "email": "cpimbley6@nyu.edu"
-      },
-      {
-        "id": 8,
-        "name": "Gavra Manning",
-        "age": 43,
-        "email": "gmanning7@lycos.com"
-      },
-      {
-        "id": 9,
-        "name": "Zachary Seward",
-        "age": 45,
-        "email": "zseward8@oracle.com"
-      },
-      {
-        "id": 10,
-        "name": "Chucho Norssister",
-        "age": 20,
-        "email": "cnorssister9@mayoclinic.com"
-      }
-    ]
-  }
+    
+  "women": [
+    {
+      "video" : 
+        {
+          "id": 1,
+          "video": "https://video.asos-media.com/Navigation/_content_topshop_desktop_mp4_564_720_2400k_25fps"
+        }
+    },
+    {
+      "small_cards" : [
+        {
+          "id": 1,
+          "image": "https://content.asos-media.com/-/media/homepages/ww/2022/sept/26/moments/ww_global_ultimate_tailoring_moment_870x1110.jpg",
+          "title": "TEAM TAILORED",
+          "text": "Executive realness"
+        },
+        {
+          "id": 2,
+          "image": "https://content.asos-media.com/-/media/homepages/ww/2022/sept/26/moments/ww_global_ultimate_tailoring_moment_870x1110.jpg",
+          "title": "TEAM TAILORED",
+          "text": "Executive realness"
+        },
+        {
+          "id": 3,
+          "image": "https://content.asos-media.com/-/media/homepages/ww/2022/sept/26/moments/ww_global_ultimate_tailoring_moment_870x1110.jpg",
+          "title": "TEAM TAILORED",
+          "text": "Executive realness"
+        },
+        {
+          "id": 4,
+          "image": "https://content.asos-media.com/-/media/homepages/ww/2022/sept/26/moments/ww_global_ultimate_tailoring_moment_870x1110.jpg",
+          "title": "TEAM TAILORED",
+          "text": "Executive realness"
+        }
+      ]
+    },
+    {
+      "trending_brands" : [
+        {
+          "id": 1,
+          "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/monkl-hp-logos-256x256.jpg"
+        },
+        {
+          "id": 2,
+          "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/never-fully-dressed-hp-logos-256x256.png"
+        },
+        {
+          "id": 3,
+          "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/1x12x---test.png"
+        },
+        {
+          "id": 4,
+          "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/reclaimed-vintage-hp-logos-256x256.jpg"
+        },
+        {
+          "id": 5,
+          "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/collusion-hp-logos-256x256.jpg"
+        },
+        {
+          "id": 6,
+          "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/weekday-hp-logos-256x256.jpg"
+        }
+      ]
+    },
+    {
+      "medium_cards" : [
+        {
+          "id": 1,
+          "image": "https://content.asos-media.com/-/media/homepages/ww/2022/sept/26/moments/ww_global_ultimate_tailoring_moment_870x1110.jpg",
+          "title": "TEAM TAILORED",
+          "text": "Executive realness"
+        },
+        {
+          "id": 2,
+          "image": "https://content.asos-media.com/-/media/homepages/ww/2022/sept/26/moments/ww_global_ultimate_tailoring_moment_870x1110.jpg",
+          "title": "TEAM TAILORED",
+          "text": "Executive realness"
+        }
+      ]
+    },
+    {
+      "products" : [
+        {
+          "id": 1,
+          "image": "https://images.asos-media.com/products/tommy-jeans-x-asos-exclusive-collab-cropped-logo-t-shirt-in-white/203102913-1-white?$n_320w$&wid=317&fit=constrain",
+          "name": "Tommy Jeans",
+          "title": "Tommy Jeans x ASOS exclusive collab cropped logo t-shirt in white",
+          "color": "white",
+          "size": ["XXS", "XS", "S", "M", "L", "XL"],
+          "price": 5600,
+          "product_details": [
+            "Excluded from all discount codes",
+            "Your new go-to",
+            "Branded design",
+            "Crew neck",
+            "Short sleeves",
+            "Regular fit"],
+          "product_code": "119609747",
+          "brand": "Founded in 1985, all-American brand Tommy Jeans is best known for its preppy vibe and iconic red, white and blue logo. Branching out, the brand has stepped up its collections to include everything from clothing and accessories to lingerie and fragrances. Scroll our Tommy Jeans at ASOS edit for classic denim pieces from Tommy Jeans, workout gear from Tommy Hilfiger Sport, as well as wardrobe-ready T-shirts, dresses, jackets and coats.",
+          "size_and_fit": ["Model wears: UK S/ EU S/ US XS", "Model's height: 168cm/5'6"],
+          "look_after_me": "Machine wash according to instructions on care label",
+          "about_me": ["Jersey: soft and stretchy", "Main: 100% Cotton."]
+        }
+      ]
+    }
+    
+  ],
+  "men": [
+    {
+      "video" : 
+        {
+          "id": 1,
+          "video": "https://video.asos-media.com/Navigation/_content_topman_desktop_mp4_564_720_2400k_25fps"
+        }
+    },
+    {
+      "small_cards" : [
+        {
+          "id": 1,
+          "image": "https://content.asos-media.com/-/media/homepages/mw/2022/sept/26/moments/mw_warm_handle_moment_870x1110-v3.png",
+          "title": "ASOS DESIGN COSY",
+          "text": "For fluff's sake"
+        },
+        {
+          "id": 2,
+          "image": "https://content.asos-media.com/-/media/homepages/mw/2022/sept/26/moments/mw_global_winter_essentials_moment_870x1110.jpg",
+          "title": "WINTER NEUTRALS",
+          "text": "Beige ain't boring"
+        },
+        {
+          "id": 3,
+          "image": "https://content.asos-media.com/-/media/homepages/mw/2022/sept/26/moments/mw_weekday_moment_870x1110.jpg",
+          "title": "WEEKDAY",
+          "text": "Cold-weather wins"
+        },
+        {
+          "id": 4,
+          "image": "https://content.asos-media.com/-/media/homepages/mw/2022/sept/26/moments/mw_retro_day_and_night_moment_870x1110-2.jpg",
+          "title": "DISCO NOSTALGIA",
+          "text": "It's a trip"
+        }
+      ]
+    },
+    {
+      "trending_brands" : [
+        {
+          "id": 1,
+          "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/tommy-hilfiger-hp-logos-256x256.jpg"
+        },
+        {
+          "id": 2,
+          "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/north-face.png"
+        },
+        {
+          "id": 3,
+          "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/nike-hp-logos-256x256.jpg"
+        },
+        {
+          "id": 4,
+          "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/carhartt-hp-logos-256x256.jpg"
+        },
+        {
+          "id": 5,
+          "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/ellesse-hp-logos-256x256.jpg"
+        },
+        {
+          "id": 6,
+          "image": "https://content.asos-media.com/-/media/homepages/unisex/brands-logos/256x256/dr-martens-hp-logos-256x256.jpg"
+        }
+      ]
+    },
+    {
+      "medium_cards" : [
+        {
+          "id": 1,
+          "image": "https://content.asos-media.com/-/media/homepages/mw/2022/sept/26/moments/mw_warm_handle_moment_870x1110-v3.png",
+          "title": "ASOS DESIGN COSY",
+          "text": "For fluff's sake"
+        },
+        {
+          "id": 2,
+          "image": "https://content.asos-media.com/-/media/homepages/mw/2022/sept/26/moments/mw_global_winter_essentials_moment_870x1110.jpg",
+          "title": "WINTER NEUTRALS",
+          "text": "Beige ain't boring"
+        }
+      ]
+    },
+    {
+      "products" : [
+        {
+          "id": 1,
+          "image": "https://images.asos-media.com/products/topman-varsity-jacket-with-flames-embroidery-in-burgundy/202686669-1-burgundy?$n_320w$&wid=317&fit=constrain",
+          "name": "Tommy Jeans",
+          "title": "Topman varsity jacket with flames embroidery in burgundy",
+          "color": "Burgundy",
+          "size": ["XXS", "XS", "S", "M", "L", "XL"],
+          "price": 13300,
+          "product_details": [
+            "Welcome to the next phase of Topman",
+            "Embroidered details",
+            "Spread collar",
+            "Press-stud placket",
+            "Ribbed trims",
+            "Regular fit"],
+          "product_code": "117783854",
+          "brand": "Welcome to the new chapter of Topman. Championing the very best of its heritage, this next phase celebrates cherished pieces, while embracing the new, and retaining that unique London spirit. Firmly cementing themselves as fashion authority, allow Topman to take you on a journey of exploration and discovery. Shop the entire collection only at ASOS, expect T-shirts, sweatshirts, suits and of course, jeans.",
+          "size_and_fit": ["Model's height: 188cm/6'2", "Model is wearing: Size Medium"],
+          "look_after_me": "Machine wash according to instructions on care label",
+          "about_me": ["Plain-woven fabric", "Main: 100% Polyester, Main 2: 100% Polyurethane coating."]
+        }
+      ]
+    }
+    
+  ]
+}
